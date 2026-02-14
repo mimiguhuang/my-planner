@@ -1,0 +1,15 @@
+{
+  "name": "學生高效排程器",
+  "short_name": "排程器",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4285F4",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
